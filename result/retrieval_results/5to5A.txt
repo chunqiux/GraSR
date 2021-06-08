@@ -1,0 +1,12 @@
+Top-10 structural neighbors
+sid			Length-scaling cosine distance
+d2clya1.ent		0.02352
+d3ryce1.ent		0.03447
+d3ag3i_.ent		0.10109
+d3ag3d_.ent		0.10923
+d1l2pa_.ent		0.11334
+d2fo1d1.ent		0.13674
+d2gboa1.ent		0.14633
+d2efka1.ent		0.17837
+d3nwaa_.ent		0.17946
+d3b8ma1.ent		0.18508

@@ -75,11 +75,11 @@ cosine distance' denotes the distance between the query structure and structural
 
 ## License
 Our project is under 
-[Apache License](https://github.com/chunqiux/GraSR/blob/main/LICENSE). 
+[Apache License](https://github.com/chunqiux/GraSR/blob/master/LICENSE). 
 The moco.py is modified from 
 [MoCo/builder.py](https://github.com/facebookresearch/moco/blob/master/moco/builder.py), 
 which is under CC-BY-NC 4.0 license. The details can be referred from 
-[MoCo_LICENSE](https://github.com/chunqiux/GraSR/blob/main/MoCo_LICENSE).
+[MoCo_LICENSE](https://github.com/chunqiux/GraSR/blob/master/MoCo_LICENSE).
 
 ## Online service
 We also provide online retrieval service [here](http://www.csbio.sjtu.edu.cn/bioinf/GraSR/).

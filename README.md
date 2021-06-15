@@ -1,5 +1,5 @@
 # GraSR
-An Effective Graph-based Protein Structure Representation Method for Fast and Accurate Protein Structure Retrieval
+Fast Protein Structure Comparison through Effective Representation Learning with Contrastive Graph Neural Networks
 
 ## Preparation
 GraSR is implemented with Python3, so a Python3 (>=3.6) interpreter is required.

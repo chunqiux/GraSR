@@ -1,6 +1,6 @@
 # Dataset
 
-You can download SCOPe v2.07 (40% ID filtered subset) from its [website](https://scop.berkeley.edu/downloads/pdbstyle/pdbstyle-sel-gs-bib-40-2.07.tgz").
+You can download SCOPe v2.07 (40% ID filtered subset) from its [website](https://scop.berkeley.edu/downloads/pdbstyle/pdbstyle-sel-gs-bib-40-2.07.tgz).
 We remove some structures due to the technical issues. The sid of remaining structures after removal is provided in [SCOPe_v207_filtered.txt](https://github.com/chunqiux/GraSR/blob/master/data/SCOPe_v207_filtered.txt).
 
 Besides SCOPe v2.07, we also construct an independent dataset to evaluate our model and other state-of-the-art methods.

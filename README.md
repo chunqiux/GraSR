@@ -1,6 +1,7 @@
 # GraSR
 Fast Protein Structure Comparison through Effective Representation Learning with Contrastive Graph Neural Networks
-[![DOI](https://zenodo.org/badge/374857961.svg)](https://zenodo.org/badge/latestdoi/374857961)
+
+Zenodo: [![DOI](https://zenodo.org/badge/374857961.svg)](https://zenodo.org/badge/latestdoi/374857961)
 
 ## Preparation
 GraSR is implemented with Python3, so a Python3 (>=3.6) interpreter is required.
